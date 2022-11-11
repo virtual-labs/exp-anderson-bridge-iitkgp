@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
    {
-      "question": "The four arms of the Anderson Bridge, are arranged as follows. AB: consists with unknown impedance with tuning resistance 100 ohm. BC: non-inductive resistor of 1600 ohm. CD: consists of non-inductive resistor of 900 ohm in parallel with a standard capacitor of 1.57 uF with series resistance of 100 ohm. DA:non-inductive resistor of 1000 ohm.The supply frequency is 50 Hz. Determine the inductance and resistance at balance condition.<br/><p style=\"text-align:center\"><img src=\"image/ander_quiz1.jpg\" style=\"width:450px;height:300px\"></p> ",
+      "question": "The four arms of the Anderson Bridge, are arranged as follows. AB: consists with unknown impedance with tuning resistance 100 ohm. BC: non-inductive resistor of 1600 ohm. CD: consists of non-inductive resistor of 900 ohm in parallel with a standard capacitor of 1.57 uF with series resistance of 100 ohm. DA:non-inductive resistor of 1000 ohm.The supply frequency is 50 Hz. Determine the inductance and resistance at balance condition.<br/><p style=\"text-align:center\"><img src=\"images/ander_quiz1.jpg\" style=\"width:450px;height:300px\"></p> ",
       "answers": {
         "a": "R<sub>1</sub>=1777.77 ohm and L<sub>1</sub>=3.042311 H",
         "b": "R<sub>1</sub>=2677.77 ohm and L<sub>1</sub>=3.042311 H",
@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "The four arms of the Anderson Bridge, are arranged as follows. AB: consists with unknown impedance with tuning resistance 10 ohm. BC: non-inductive resistor of 1600 ohm. CD: consists of non-inductive resistor of 900 ohm in parallel with a standard capacitor of 1.57 uF with series resistance of 100 ohm. DA:non-inductive resistor of 1000 ohm.The supply frequency is 50 Hz. Determine the inductance and resistance at balance condition.<br/><p style=\"text-align:center\"><img src=\"image/ander_quiz2.jpg\" style=\"width:450px;height:300px\"></p> ",
+      "question": "The four arms of the Anderson Bridge, are arranged as follows. AB: consists with unknown impedance with tuning resistance 10 ohm. BC: non-inductive resistor of 1600 ohm. CD: consists of non-inductive resistor of 900 ohm in parallel with a standard capacitor of 1.57 uF with series resistance of 100 ohm. DA:non-inductive resistor of 1000 ohm.The supply frequency is 50 Hz. Determine the inductance and resistance at balance condition.<br/><p style=\"text-align:center\"><img src=\"images/ander_quiz2.jpg\" style=\"width:450px;height:300px\"></p> ",
       "answers": {
         "a": " R<sub>1</sub>=1776.77 ohm and L<sub>1</sub>=2.565 H",
         "b": " R<sub>1</sub>=1767.77 ohm and L<sub>1</sub>=2.565 H ",
