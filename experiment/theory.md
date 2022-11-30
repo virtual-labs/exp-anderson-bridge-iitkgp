@@ -12,6 +12,7 @@ This bridge is a modification of the maxwell's inductive and capacitive bridge. 
 ***Fig 1: Circuit diagram for Measurement of Self Inductance by Anderson's Bridge***
 </p>
 Let, `L_1`=Self inductance is to be measured.
+
        `R_1`= Resistance of self inductor.
        `r_1`= Resistance connected in series with self inductor.
        `r,R_2,R_3,R_4`= Known non inductive resistances.
