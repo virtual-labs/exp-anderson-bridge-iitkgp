@@ -13,11 +13,11 @@ This bridge is a modification of the maxwell's inductive and capacitive bridge. 
 </p>
 Let, `L_1`=Self inductance is to be measured.
 
-       `R_1`= Resistance of self inductor.
-       `r_1`= Resistance connected in series with self inductor.
-       `r,R_2,R_3,R_4`= Known non inductive resistances.
-       `C`= Fixed standard capacitor.
-       </p>
+     `R_1`= Resistance of self inductor.
+     `r_1`= Resistance connected in series with self inductor.
+     `r,R_2,R_3,R_4`= Known non inductive resistances.
+     `C`= Fixed standard capacitor.
+       
 At balance,  
 <p align="center">
 `I_1= I_3 and I_2=I_C+I_4`
