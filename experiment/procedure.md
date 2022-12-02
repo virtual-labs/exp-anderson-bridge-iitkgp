@@ -16,6 +16,8 @@
  </br>
 5) If "Null" is achieved, switch to <b>'Measure Inductor Value' </b> tab and click on <b>'Simulate' </b>. Observe calculated values of unknown Inductor (L<sub>1</sub>) and it's Internal Resistance (R<sub>1</sub>).
  </br>
-6) Also observe the Dissipation factor of the unknwown capacitor which is defined as   `(omegaL)/r`.  Where, `omega=2pif`.
+6) Also observe the Dissipation factor of the unknwown capacitor which is defined as 
+
+$$ \frac{\omega L}{r} \ Where, \omega=2 \pi f $$
 
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
