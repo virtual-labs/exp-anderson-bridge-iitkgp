@@ -1,0 +1,39 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Anderson bridge is a modified form of ________",
+      "answers": {
+        "a": "Wheatstone’s bridge",
+        "b": "Kelvin double bridge",
+        "c": "Schering bridge",
+        "d": " Maxwell bridge"
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is incorrect. The correct option is (d).",
+        "b": "You have choosen option (b). The answer is incorrect. The correct option is (d).",
+        "c": "You have choosen option (c). The answer is incorrect. The correct option is (d).",
+        "d": "You have choosen option (d). The answer is correct"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Anderson’s bridge is basically used for ________",
+      "answers": {
+        "a": " measurement of capacitance",
+        "b": "measurement of inductance ",
+        "c": "measurement of resistance",
+        "d": "measurement of voltage"
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is incorrect. The correct option is (b).",
+        "b": "You have choosen option (b). The answer is correct.",
+        "c": "You have choosen option (c). The answer is incorrect. The correct option is (b).",
+        "d": "You have choosen option (d). The answer is incorrect. The correct option is (b)."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
